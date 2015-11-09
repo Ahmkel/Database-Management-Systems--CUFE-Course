@@ -62,7 +62,7 @@ namespace Requirement
                                              AddresstxtBox.Text, SextxtBox.Text, int.Parse(SalarytxtBox.Text), int.Parse(Super_SSNtxtBox.Text),
                                              int.Parse(DnotxtBox.Text)) == 0)
                 {
-                    MessageBox.Show("Update Failed");
+                    MessageBox.Show("No Rows Updated");
                 }
                 else
                 {
@@ -92,7 +92,14 @@ namespace Requirement
                 MessageBox.Show("Please enter project name");
             else
             {
-                controllerObj.DeleteProject(ProjecttxtBox.Text);
+                if (controllerObj.DeleteProject(ProjecttxtBox.Text) == 0)
+                {
+                    MessageBox.Show("No Rows Deleted");
+                }
+                else
+                {
+                    MessageBox.Show("Project Deleted");
+                }
             }
         }
     }
