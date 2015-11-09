@@ -1,0 +1,1 @@
+﻿Data Source=Stark;Initial Catalog=CompanyDBLab4;Integrated Security=True

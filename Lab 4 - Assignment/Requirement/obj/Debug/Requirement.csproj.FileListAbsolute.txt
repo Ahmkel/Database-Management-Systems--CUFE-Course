@@ -1,0 +1,9 @@
+C:\Users\Ahmkel\Documents\CUFE\Databases\Lab 4\Requirement\Requirement\Requirement\bin\Debug\Requirement.exe.config
+C:\Users\Ahmkel\Documents\CUFE\Databases\Lab 4\Requirement\Requirement\Requirement\bin\Debug\Requirement.exe
+C:\Users\Ahmkel\Documents\CUFE\Databases\Lab 4\Requirement\Requirement\Requirement\bin\Debug\Requirement.pdb
+C:\Users\Ahmkel\Documents\CUFE\Databases\Lab 4\Requirement\Requirement\Requirement\obj\Debug\Requirement.csprojResolveAssemblyReference.cache
+C:\Users\Ahmkel\Documents\CUFE\Databases\Lab 4\Requirement\Requirement\Requirement\obj\Debug\Requirement.View.resources
+C:\Users\Ahmkel\Documents\CUFE\Databases\Lab 4\Requirement\Requirement\Requirement\obj\Debug\Requirement.Properties.Resources.resources
+C:\Users\Ahmkel\Documents\CUFE\Databases\Lab 4\Requirement\Requirement\Requirement\obj\Debug\Requirement.csproj.GenerateResource.Cache
+C:\Users\Ahmkel\Documents\CUFE\Databases\Lab 4\Requirement\Requirement\Requirement\obj\Debug\Requirement.exe
+C:\Users\Ahmkel\Documents\CUFE\Databases\Lab 4\Requirement\Requirement\Requirement\obj\Debug\Requirement.pdb
